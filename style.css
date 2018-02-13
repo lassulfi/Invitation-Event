@@ -1,0 +1,73 @@
+body{
+	background: url('img/banda_jazz.jpg') no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1{
+	padding-top:100px;
+	padding-bottom:40px;
+}
+
+footer{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color:black;
+	color:white;
+	text-align: center;
+}
+
+nav.navbar-transparente{
+	padding-top: 15px;
+	padding-left:10px;
+	padding-right:10px;
+	background: rgba(0,0,0,0.2);
+	border:none;
+}
+
+.navbar-nav>li>a{
+	color:white;
+}
+
+.navbar-nav>li>a:hover{
+	background:white;
+	color:black;
+}
+
+.imagem-home{
+	width:100%;
+}
+
+#map{
+	height:400px;
+	width:100%;
+}
+
+#inicio{
+	padding-top:150px;
+	padding-bottom:30px;
+}
+
+#evento{
+	padding-top:60px;
+	padding-bottom:90px;
+	background-color:white;
+	color:black;
+}
+
+#programacao{
+	padding-top:60px;
+	padding-bottom:90px;
+	color:#cc0000;
+}
+
+#localizacao{
+	padding-top:40px;
+	padding-bottom:60px;
+	background-color:white;
+	color:black;
+}
